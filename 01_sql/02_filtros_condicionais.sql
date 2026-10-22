@@ -1,7 +1,3 @@
--- Maicon Henrique de Oliveira Gomes (SQL — NYCFLIGHTS13)
--- Base: voos que partiram de NYC em 2013
--- Tabelas: flights, airlines, airports, planes, weather
-
 -- ------------------------------------------------------------
 -- BLOCO 2 — FILTROS
 -- WHERE, AND, OR, BETWEEN, IN, LIKE, IS NULL
